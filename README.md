@@ -2,7 +2,7 @@
 <h3 align="center">Fascinado por Tecnologia, Análise de Dados e Resolver Problemas de Negócios</h3>
 
 - 🔭 Atualmente Estou Trabalhando com Análises e Visualizações de Dados
-- 🧑‍💼 Confira Meu Último Projeto [Relatório de Trafego Pago - META ADS](https://app.powerbi.com/view?r=eyJrIjoiNTEwYWFiMDMtMTQxNS00NmRjLWFmZmMtOTJjZGVkY2NjOWM1IiwidCI6Ijk1ODI3ZTQyLTA4NDEtNGQwOC1iODk5LWYxNzgxY2MwOWZmNSJ9&embedImagePlaceholder=true)
+- 🧑‍💼 Confira Meu Último Projeto [Sistema de Gestão Financeira e Operacional no Excel - Mercado de Paulo Garcia](https://github.com/pg-garciadatasolutions/Portif-lio-de-An-lise-de-Dados/blob/main/Mercado%20Paulo%20Garcia.xlsm)
 
 - 🌱 Atualmente Estou Aprendendo **Python 3 do básico ao avançado**
 
