@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente Estou Aprendendo **Estudos Relacionados a Engenharia de Dados**
 
-- 👯 Também Estou Trabalhando com Manipulação de Dados no PostgreSQL **projeto_ti**
+- 👯 Também Estou Trabalhando com Manipulação de Dados no PostgreSQL [Projeto_ti](https://github.com/pg-garciadatasolutions/Portfolio-Analise-de-Dados/tree/main/Case%2003%20-%20Suporte%20e%20Vendas%20TI)
 
 - 💬 Me Pergunte Sobre **Power BI, SQL, EXCEL, DAX e Python**
 
