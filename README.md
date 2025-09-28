@@ -2,11 +2,11 @@
 <h3 align="center">Fascinado por Tecnologia, Análise de Dados e Resolver Problemas de Negócios</h3>
 
 - 🔭 Atualmente Estou Trabalhando com Análises e Visualizações de Dados
-- 🧑‍💼 Confira Meu Último Projeto [Sistema de Gestão Financeira e Operacional no Excel - Mercado de Paulo Garcia](https://github.com/pg-garciadatasolutions/Portif-lio-de-An-lise-de-Dados/blob/main/Mercado%20Paulo%20Garcia.xlsm)
+- 🧑‍💼 Confira Meu Último Projeto [Vendas & Lucros - Ano de 2024](https://github.com/pg-garciadatasolutions/Portfolio-Analise-de-Dados/blob/main/Vendas%20%26%20Lucros%20-%20Ano%20de%202024.pbix)
 
-- 🌱 Atualmente Estou Aprendendo **Python 3 do básico ao avançado**
+- 🌱 Atualmente Estou Aprendendo **Estudos Relacionados a Engenharia de Dados**
 
-- 👯 Também Estou Trabalhando com Manipulação de Dados no PostgreSQL **Projeto Vento Norte**
+- 👯 Também Estou Trabalhando com Manipulação de Dados no PostgreSQL **projeto_ti**
 
 - 💬 Me Pergunte Sobre **Power BI, SQL, EXCEL, DAX e Python**
 
